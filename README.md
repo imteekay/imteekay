@@ -1,16 +1,13 @@
-### Hi there 👋
+```console
+$ cat /etc/profile.txt
+Hi, I'm TK! 👋
+I'm a software engineer, lifelong-learner, and writer.
+Always curious about backend, frontend, developer tooling, compilers, and programming languages.
+I also like to write, play music, read books, and learn new languages.
 
-<!--
-**leandrotk/leandrotk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat /etc/social.txt
+→ website: leandrotk.github.io/tk,
+→ twitter: twitter.com/leandrotk_,
+→ goodreads: www.goodreads.com/iamteekay,
+→ newsletter: teekay.substack.com
+```
