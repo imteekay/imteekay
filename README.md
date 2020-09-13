@@ -9,6 +9,6 @@ $ cat /etc/social.txt
 → website: leandrotk.github.io/tk
 → twitter: twitter.com/leandrotk_
 → linkedin: linkedin.com/in/leandrotk
-→ goodreads: www.goodreads.com/iamteekay
+→ goodreads: goodreads.com/iamteekay
 → newsletter: teekay.substack.com
 ```
