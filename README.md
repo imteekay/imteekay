@@ -6,7 +6,7 @@ Always curious about backend, frontend, developer tooling, compilers, and progra
 I also like to write, play music, read books, and learn new languages.
 
 $ cat /etc/social.txt
-→ website: leandrotk.github.io/tk
+→ website: leandrotk.github.io
 → twitter: twitter.com/leandrotk_
 → linkedin: linkedin.com/in/leandrotk
 → goodreads: goodreads.com/iamteekay
