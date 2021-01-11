@@ -8,7 +8,7 @@ I also like to write, play music, read books, and learn new languages.
 $ cat /etc/social.txt
 → website: leandrotk.github.io
 → twitter: twitter.com/leandrotk_
-→ linkedin: linkedin.com/in/leandrotk
+→ linkedin: linkedin.com/in/imtk
 → goodreads: goodreads.com/iamteekay
 → newsletter: teekay.substack.com
 ```
