@@ -8,10 +8,10 @@ I also like to write, play music, read books, and learn new languages.
 
 <p align="center">
   <samp>
-    <a href="https://leandrotk.github.io/">website</a> .
-    <a href="https://twitter.com/leandrotk_">twitter</a> .
-    <a href="https://linkedin.com/in/imtk">linkedin</a> .
-    <a href="https://goodreads.com/iamteekay">goodreads</a> .
-    <a href="https://teekay.substack.com">newsletter</a> .
+    <a href="https://leandrotk.github.io/" target="_blank">website</a> .
+    <a href="https://twitter.com/leandrotk_" target="_blank">twitter</a> .
+    <a href="https://linkedin.com/in/imtk" target="_blank">linkedin</a> .
+    <a href="https://goodreads.com/iamteekay" target="_blank">goodreads</a> .
+    <a href="https://teekay.substack.com" target="_blank">newsletter</a> .
   </samp>
 </p>
