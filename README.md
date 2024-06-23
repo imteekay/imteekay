@@ -4,6 +4,7 @@
     <a href="https://teekay.substack.com">newsletter</a> • 
     <a href="https://goodreads.com/iamteekay">goodreads</a> • 
     <a href="https://twitter.com/wordsofteekay">twitter</a> • 
-    <a href="https://www.linkedin.com/in/imtk">linkedin</a>
+    <a href="https://www.linkedin.com/in/imtk">linkedin</a> • 
+    <a href="https://github.com/sponsors/imteekay">sponsorship</a>
   </samp>
 </p>
